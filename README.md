@@ -4,6 +4,10 @@ Simple program to grap epub from wuxiaworld website
 
 Use at your own risk
 
+## Download
+
+You can download from the releases.
+
 ## Installation
 
 With the go toolchain
